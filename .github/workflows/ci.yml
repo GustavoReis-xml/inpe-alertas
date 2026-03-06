@@ -17,4 +17,4 @@ jobs:
         with:
           node-version: 20
       - name: Teste de funcionamento
-        run: echo "CI funcionando!"
+        run: echo "CI/CD configurado na Aula 3"
